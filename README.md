@@ -51,7 +51,7 @@ git clone https://github.com/ahmedrobin666/ozymandias.git
 
 2. Navigate to the project directory:
 ```bash
-cd web-security-tool
+cd Ozymandias
 ```
 
 ---
